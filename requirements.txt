@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+reportlab
+python-dotenv
+groq
+google-generativeai
+openpyxl
+tabulate
+pytest
